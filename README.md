@@ -11,7 +11,7 @@ This project provides a Python implementation of the `WeibullEstimator` class, d
 ## Installation
 
 ```bash
-git clone https://github.com/pmenaq-new/fitweibull.git
+git clone https://github.com/pmenaq-new/fit_weibull_parameters.git
 cd weibull-estimator
 pip install -r requirements.txt
 ```
